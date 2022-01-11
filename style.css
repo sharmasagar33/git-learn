@@ -1,0 +1,18 @@
+
+        body{
+            background: greenyellow;
+        }
+        table{
+            font-size: times;
+            width: 600px;
+            border-collapse: collapse;
+            text-align: left;
+
+        }
+        td,th{
+            border: 1px solid #000;
+            padding: 8px;
+        }
+        tr:nth-child(odd){
+            background: white;
+        }
